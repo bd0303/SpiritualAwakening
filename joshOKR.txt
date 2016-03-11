@@ -1,0 +1,3 @@
+-Movements and implement 'blindness' -- Wed by 11:59 PM(est. 1.5~2 hrs)
+-Interaction with doors, open new dialogue scenes -- Wed by 11:59 (est. 2~3 hrs)
+-Make consequences after the dialogue -- Fri by 3:00 AM (est ???)

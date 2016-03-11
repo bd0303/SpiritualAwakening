@@ -1,0 +1,4 @@
+Creating the maze blocks and their properties -- (~1 hour)
+Handling collisions and after effects between between player and environment -- (~2 hours)
+Designing and laying out maze/environment/level structure -- (~2 hours)
+Standard HUD/UI -- (2 hours)
